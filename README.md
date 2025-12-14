@@ -32,11 +32,18 @@ From the above characteristic table, we can directly write the next state equati
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+Program for flipflops and verify its truth table in quartus using Verilog programming.
+Developed by: S.PRIYADHASRHINI
+RegisterNumber: 25017590
+
+<img width="1919" height="1016" alt="9a" src="https://github.com/user-attachments/assets/68c7ecbc-39f1-4ead-88b5-937b27f730d7" />
+
+
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="1790" height="927" alt="9c" src="https://github.com/user-attachments/assets/a78c26b0-1c7f-4c4a-a775-fdad9ba37421" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1909" height="1013" alt="9b" src="https://github.com/user-attachments/assets/2cd1013e-9c3d-4195-967f-c969ac9d3225" />
 
 **RESULTS**
